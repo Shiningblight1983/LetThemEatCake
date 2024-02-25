@@ -1,0 +1,2 @@
+# LetThemEatCake
+  Hello, World! Welcome to my readme. Fun fact, This is not my first time producing code and scripts in windows.that all began Back when 56K Dial-up was high speed.  i am surprised at how much things have and havent changed For instance back in the late 90's IRC chat was very popular with y sister and I. lets see what all i can recall. and in true add fashion i have come full circle
